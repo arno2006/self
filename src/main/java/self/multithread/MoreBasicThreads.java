@@ -6,6 +6,6 @@ public class MoreBasicThreads {
 			new Thread(new LiftOff()).start();
 		}
 		
-		System.out.println("Waiting for LiftOff!");
+		System.out.println("Waiting for LiftOff! ");
 	}
 }
