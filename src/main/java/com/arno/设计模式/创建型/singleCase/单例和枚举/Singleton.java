@@ -1,4 +1,4 @@
-package com.arno.designPattern.creationType.singleCase.单例和枚举;
+package com.arno.设计模式.创建型.singleCase.单例和枚举;
 
 public enum Singleton {
 

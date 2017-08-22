@@ -1,4 +1,4 @@
-package com.arno.designPattern.creationType.singleCase;
+package com.arno.设计模式.创建型.singleCase;
 
 public class EagerSingleton {
 	
